@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "464994392705",
+    "project_id": "fir-getx-app-9a165",
+    "storage_bucket": "fir-getx-app-9a165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464994392705:android:a147c5167a7ade50d40b80",
+        "android_client_info": {
+          "package_name": "com.example.email_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464994392705-15u7fehgqhatiiii1apvqucso016b3nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4VYVxJycx-XWyE2Lv9_BErrFF3cHt1tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464994392705-15u7fehgqhatiiii1apvqucso016b3nh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "464994392705-7ua95vrqn57185dkku97tts4levu7eq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailLoginApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
